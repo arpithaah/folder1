@@ -1,2 +1,4 @@
 hello this is feature1 filie
 added by master
+hello this is feature1 file
+added by feature
